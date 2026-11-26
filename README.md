@@ -19,10 +19,10 @@ More client work, including apps, web apps and business sites, available on requ
 
 ### Tech I use
 
-**Backend:** TypeScript, Node.js, NestJS, Supabase (Deno Edge Functions), Laravel, PHP
-**Data:** PostgreSQL, MySQL, Prisma, Redis, BullMQ
-**Frontend and mobile:** React Native, Expo, Next.js
-**Tooling:** Docker, GitHub Actions, Railway, Vercel, Jest
+- **Backend:** TypeScript, Node.js, NestJS, Supabase (Deno Edge Functions), Laravel, PHP
+- **Data:** PostgreSQL, MySQL, Prisma, Redis, BullMQ
+- **Frontend and mobile:** React Native, Expo, Next.js
+- **Tooling:** Docker, GitHub Actions, Railway, Vercel, Jest
 
 ### Get in touch
 
