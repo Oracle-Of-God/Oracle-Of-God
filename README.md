@@ -26,5 +26,5 @@ More client work, including apps, web apps and business sites, available on requ
 
 ### Get in touch
 
-Email: olamideolorunfunmi1@gmail.com
-X: [@OracleOfSci](https://x.com/OracleOfSci)
+- Email: olamideolorunfunmi1@gmail.com
+- X: [@OracleOfSci](https://x.com/OracleOfSci)
