@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Olamide 👋
 
-<!--
-**Oracle-Of-God/Oracle-Of-God** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and full-stack developer based in Lagos, Nigeria. I build APIs, payment flows and mobile apps, mostly on NestJS, Supabase and React Native. Open to remote and contract work.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Naira Wallet API](https://github.com/Oracle-Of-God/naira-wallet-api)** · NestJS, PostgreSQL, Redis, Docker
+A wallet backend with atomic, idempotent transfers and Paystack funding credited from a signed webhook. Tested with unit and e2e suites in CI, and deployed on Railway. [Live API docs](https://naira-wallet-api-production.up.railway.app/docs)
+
+**FloraGoal** · React Native / Expo, Supabase
+A competitive mobile football gaming platform with 1v1 matchmaking, tournaments and leaderboards. I'm the founder and developer.
+[App Store](https://apps.apple.com/app/id6780665075) · [Google Play](https://play.google.com/store/apps/details?id=com.floragoal.app)
+
+### Tech I use
+
+**Backend:** TypeScript, Node.js, NestJS, Supabase (Deno Edge Functions), Laravel, PHP
+**Data:** PostgreSQL, MySQL, Prisma, Redis, BullMQ
+**Frontend and mobile:** React Native, Expo, Next.js
+**Tooling:** Docker, GitHub Actions, Railway, Vercel, Jest
+
+### Get in touch
+
+Email: olamideolorunfunmi1@gmail.com
+X: [@OracleOfSci](https://x.com/OracleOfSci)
